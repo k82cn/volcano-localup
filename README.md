@@ -1,2 +1,2 @@
 # volcano-localup
-A locaup script for batch system with Volcano 
+A localup script of Volcano as batch system 
